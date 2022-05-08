@@ -1,0 +1,40 @@
+{
+  "ranges": {
+    "week": {
+      "start": 1,
+      "end": 7
+    },
+    "month": {
+      "start": 1,
+      "end": 12
+    },
+    "hour": {
+      "start": 0,
+      "end": 23
+    },
+    "day": {
+      "start": 1,
+      "end": 31
+    },
+    "minute": {
+      "start": 0,
+      "end": 59
+    }
+  },
+  "months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY",
+    "JUN",
+    "JUL",
+    "AUG",
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC"
+  ],
+  "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+  "symbols" : [",", "/", "-", "L", "W", "*"]
+}
